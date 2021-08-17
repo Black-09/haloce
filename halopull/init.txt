@@ -1,0 +1,10 @@
+sv_name "SVPS "
+sv_rcon_password "7+5"
+sv_public 1
+sv_motd motd.txt
+sv_maxplayers 16
+sv_timelimit 
+sv_tk_ban 0
+sv_mapcycle_timeout 10
+load
+sv_map bloodgulch CTFsniper

@@ -1,0 +1,27 @@
+v1
+lua 1
+lua_load hit_reg_fix
+setcmd afk -1
+antihalofp 1
+afk_kick 70
+antispam 2
+antiwarp 1
+anticamp 15 5
+sapp_console 1
+max_votes 5
+mapvote 1
+map_skip 41
+msg_prefix "***Bk09*** ."
+aimbot_ban 10000 1
+no_lead 1
+adminban 2
+custom_sleep 1
+packet_limit 512
+antiglitch 1
+mtv 0
+block_tc 1
+ping_kick 500
+disable_sj 0
+scrim_mode 0
+spam
+auto_update 0

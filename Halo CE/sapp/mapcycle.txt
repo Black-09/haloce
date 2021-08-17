@@ -1,0 +1,10 @@
+bloodgulch:CTFsniper
+ratrace:CTFsniper
+chillout:CTFsniper
+bloodgulch:CTFsniper
+deathisland:CTFsniper
+damnation:CTFsniper
+sidewinder:CTFsniper
+wizard:CTFsniper
+boardingaction:CTFsniper
+gephyrophobia:CTFsniper

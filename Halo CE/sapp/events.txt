@@ -1,0 +1,8 @@
+--event_prejoin 'mute $n '
+
+
+event_join 'wait 4000;say $n "El servidor itenta ser dinamico, si duras 1 minuto en afk"'
+event_join 'wait 5000;say $n "seras expulsado para dar oportunidad a otra persona"'
+
+event_score $pn 'say * "$name a puntuado con la Bandera!"'
+event_camp 3 'say $n "$name es captura la bandera ve por ella!";kill me' 
