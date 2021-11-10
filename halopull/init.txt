@@ -1,4 +1,4 @@
-sv_name "SVPS "
+sv_name "SERVER VPS"
 sv_rcon_password "7+5"
 sv_public 1
 sv_motd motd.txt
