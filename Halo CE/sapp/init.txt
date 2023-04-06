@@ -11,7 +11,7 @@ sapp_console 1
 max_votes 5
 mapvote 1
 map_skip 41
-msg_prefix "***Bk09*** ."
+msg_prefix "***FTS*** ."
 aimbot_ban 10000 1
 no_lead 1
 adminban 2
